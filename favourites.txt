@@ -1,9 +1,6 @@
-<<<<<<< HEAD
 apai
 cepai
 kebai
-=======
 amadeus
 apocalipto
 ff1
->>>>>>> movies
